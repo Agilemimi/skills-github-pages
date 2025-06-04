@@ -1,3 +1,1 @@
----
-title: Welcome to my blog!
----
+This is my blog and I will be sharing all my work here
